@@ -1,0 +1,38 @@
+.blog-single-container{
+    margin-top: 20px;
+}
+.blog-bannar-image img{
+    width: 660px;
+    height: 340px;
+    
+}
+.parent-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.other-section-blog{
+    display: flex;
+      
+}
+.other-section-blog img{
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+}
+.other-section-blog h4{
+    margin-left: 10px;
+}
+.other-section-blog h6{
+    
+    margin-top: -18px;
+    margin-left: 10px;
+}
+.profile-post-section{
+    height: 60px;
+   
+}
+.parent-button span{
+    margin-right: 20px;
+}
+

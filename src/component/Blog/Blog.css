@@ -1,0 +1,21 @@
+.blog-container{
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    
+}
+.single-blog{
+    
+}
+.side-blog{
+    padding: 15px;
+}
+.spend-time{
+    color: rebeccapurple;
+    border: 1px solid rgb(157, 86, 204);
+    padding: 12px;
+    border-radius: 10px;
+    background-color: rgba(163, 96, 226, 0.199);
+}
+
+
+

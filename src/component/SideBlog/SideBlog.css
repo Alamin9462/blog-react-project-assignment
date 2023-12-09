@@ -1,0 +1,9 @@
+.single-blog-heading{
+    border: 1 px solid white;
+    background-color: rgb(238, 236, 236);
+    border-radius: 10px;
+    
+}
+.single-blog-heading h5{
+    padding: 10px 10px;
+}
