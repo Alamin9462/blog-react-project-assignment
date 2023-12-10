@@ -70,6 +70,10 @@ const Blog = () => {
                 </div>
              
             </div>
+            <div>
+                <h3>Props between state difference ?</h3>
+                <p>Ans::</p>
+            </div>
         </div>
     );
 };
